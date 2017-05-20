@@ -8,6 +8,11 @@
           <custom-object-presentation />
         </configuration>
       </debugger>
+      <debugger id="ruby">
+        <configuration>
+          <option name="timeout" value="30" />
+        </configuration>
+      </debugger>
     </debuggers>
   </component>
 </application>
