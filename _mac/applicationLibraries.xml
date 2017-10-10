@@ -1848,11 +1848,13 @@
     </library>
     <library name="byebug (v9.1.0, RVM: ruby-2.4.1 [mindleaps-tracker]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/9.1.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mindleaps-tracker/gems/byebug-9.1.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mindleaps-tracker/gems/byebug-9.1.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mindleaps-tracker/gems/byebug-9.1.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/9.1.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mindleaps-tracker/gems/byebug-9.1.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mindleaps-tracker/gems/byebug-9.1.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mindleaps-tracker/gems/byebug-9.1.0/lib" />
@@ -7696,12 +7698,14 @@
     </library>
     <library name="puma (v3.10.0, RVM: ruby-2.4.1 [mindleaps-tracker]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.10.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mindleaps-tracker/gems/puma-3.10.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mindleaps-tracker/gems/puma-3.10.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mindleaps-tracker/gems/puma-3.10.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mindleaps-tracker/gems/puma-3.10.0/tools" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.10.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mindleaps-tracker/gems/puma-3.10.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mindleaps-tracker/gems/puma-3.10.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mindleaps-tracker/gems/puma-3.10.0/lib" />
@@ -10256,11 +10260,13 @@
     </library>
     <library name="skylight (v1.4.0, RVM: ruby-2.4.1 [mindleaps-tracker]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/skylight/1.4.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mindleaps-tracker/gems/skylight-1.4.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mindleaps-tracker/gems/skylight-1.4.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mindleaps-tracker/gems/skylight-1.4.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/skylight/1.4.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mindleaps-tracker/gems/skylight-1.4.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mindleaps-tracker/gems/skylight-1.4.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mindleaps-tracker/gems/skylight-1.4.0/lib" />
