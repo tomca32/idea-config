@@ -1,4 +1,7 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta 9" />
+  </action>
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="ctrl meta b" />
     <keyboard-shortcut first-keystroke="ctrl b" />
@@ -14,6 +17,12 @@
   </action>
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="meta 9" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="meta 0" />
   </action>
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
