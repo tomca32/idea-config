@@ -10388,6 +10388,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@mindleaps-tracker/gems/rake-12.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="rake (v12.3.0, RVM: ruby-2.4.2 [mindleaps-tracker]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@mindleaps-tracker/gems/rake-12.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@mindleaps-tracker/gems/rake-12.3.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@mindleaps-tracker/gems/rake-12.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@mindleaps-tracker/gems/rake-12.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@mindleaps-tracker/gems/rake-12.3.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@mindleaps-tracker/gems/rake-12.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="ransack (v1.8.2, RVM: ruby-2.3.3 [mindleaps-tracker]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@mindleaps-tracker/gems/ransack-1.8.2/lib" />
