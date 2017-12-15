@@ -1,5 +1,9 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/d3" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="actioncable (v5.0.0.1, RVM: ruby-2.3.3 [mindleaps-tracker]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@mindleaps-tracker/gems/actioncable-5.0.0.1/lib" />
