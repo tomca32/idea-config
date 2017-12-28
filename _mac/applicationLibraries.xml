@@ -16024,6 +16024,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/skylight-1.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="slim (v3.0.9, RVM: ruby-2.4.3 [mindleaps-tracker]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/slim-3.0.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/slim-3.0.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/slim-3.0.9/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/slim-3.0.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/slim-3.0.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/slim-3.0.9/benchmarks" />
+      </SOURCES>
+    </library>
     <library name="slop (v3.6.0, RVM: ruby-2.3.3 [mindleaps-tracker]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@mindleaps-tracker/gems/slop-3.6.0/lib" />
@@ -16482,6 +16494,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/SyslogLogger-2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="temple (v0.8.0, RVM: ruby-2.4.3 [mindleaps-tracker]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/temple-0.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/temple-0.8.0/lib" />
       </SOURCES>
     </library>
     <library name="term-ansicolor (v1.3.2, RVM: ruby-2.3.3 [mindleaps-tracker]) [gem]">
