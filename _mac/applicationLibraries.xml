@@ -6854,6 +6854,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/fog-aws-2.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="fog-aws (v2.0.1, RVM: ruby-2.4.3 [mindleaps-tracker]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/fog-aws-2.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/fog-aws-2.0.1/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/fog-aws-2.0.1/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/fog-aws-2.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/fog-aws-2.0.1/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/fog-aws-2.0.1/tests" />
+      </SOURCES>
+    </library>
     <library name="fog-core (v1.43.0, RVM: ruby-2.3.3 [mindleaps-tracker]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@mindleaps-tracker/gems/fog-core-1.43.0/lib" />
@@ -13640,6 +13652,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rack-test-0.8.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-test (v0.8.3, RVM: ruby-2.4.3 [mindleaps-tracker]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/rack-test-0.8.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/rack-test-0.8.3/lib" />
       </SOURCES>
     </library>
     <library name="rails (v3.2.18, RVM: ruby-2.3.3) [gem]">
