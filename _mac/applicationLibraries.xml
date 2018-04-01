@@ -140,6 +140,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/actioncable-5.1.5/lib" />
       </SOURCES>
     </library>
+    <library name="actioncable (v5.1.6, RVM: ruby-2.4.3 [mindleaps-tracker]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/actioncable-5.1.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/actioncable-5.1.6/lib" />
+      </SOURCES>
+    </library>
     <library name="actionmailer (v3.2.18, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/actionmailer-3.2.18/lib" />
@@ -282,6 +290,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/actionmailer-5.1.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionmailer (v5.1.6, RVM: ruby-2.4.3 [mindleaps-tracker]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/actionmailer-5.1.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/actionmailer-5.1.6/lib" />
       </SOURCES>
     </library>
     <library name="actionpack (v3.2.18, RVM: ruby-2.3.3) [gem]">
@@ -428,6 +444,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/actionpack-5.1.5/lib" />
       </SOURCES>
     </library>
+    <library name="actionpack (v5.1.6, RVM: ruby-2.4.3 [mindleaps-tracker]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/actionpack-5.1.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/actionpack-5.1.6/lib" />
+      </SOURCES>
+    </library>
     <library name="actionview (v5.0.0.1, RVM: ruby-2.3.3 [mindleaps-tracker]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@mindleaps-tracker/gems/actionview-5.0.0.1/lib" />
@@ -562,6 +586,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/actionview-5.1.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionview (v5.1.6, RVM: ruby-2.4.3 [mindleaps-tracker]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/actionview-5.1.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/actionview-5.1.6/lib" />
       </SOURCES>
     </library>
     <library name="active_model_serializers (v0.10.2, RVM: ruby-2.3.3 [mindleaps-tracker]) [gem]">
@@ -874,6 +906,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/activejob-5.1.5/lib" />
       </SOURCES>
     </library>
+    <library name="activejob (v5.1.6, RVM: ruby-2.4.3 [mindleaps-tracker]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/activejob-5.1.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/activejob-5.1.6/lib" />
+      </SOURCES>
+    </library>
     <library name="activemodel (v3.2.18, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/activemodel-3.2.18/lib" />
@@ -1018,6 +1058,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/activemodel-5.1.5/lib" />
       </SOURCES>
     </library>
+    <library name="activemodel (v5.1.6, RVM: ruby-2.4.3 [mindleaps-tracker]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/activemodel-5.1.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/activemodel-5.1.6/lib" />
+      </SOURCES>
+    </library>
     <library name="activerecord (v3.2.18, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/activerecord-3.2.18/lib" />
@@ -1160,6 +1208,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/activerecord-5.1.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="activerecord (v5.1.6, RVM: ruby-2.4.3 [mindleaps-tracker]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/activerecord-5.1.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/activerecord-5.1.6/lib" />
       </SOURCES>
     </library>
     <library name="activeresource (v3.2.18, RVM: ruby-2.3.3) [gem]">
@@ -1312,6 +1368,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/activesupport-5.1.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v5.1.6, RVM: ruby-2.4.3 [mindleaps-tracker]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/activesupport-5.1.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/activesupport-5.1.6/lib" />
       </SOURCES>
     </library>
     <library name="addressable (v2.5.0, RVM: ruby-2.3.3 [mindleaps-tracker]) [gem]">
@@ -2980,6 +3044,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/byebug-10.0.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/byebug-10.0.0/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/byebug-10.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="byebug (v10.0.2, RVM: ruby-2.4.3 [mindleaps-tracker]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/10.0.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/byebug-10.0.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/byebug-10.0.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/byebug-10.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/10.0.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/byebug-10.0.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/byebug-10.0.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/byebug-10.0.2/lib" />
       </SOURCES>
     </library>
     <library name="byebug (v9.0.6, RVM: ruby-2.3.3 [mindleaps-tracker]) [gem]">
@@ -5936,6 +6014,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/excon-0.61.0/tests" />
       </SOURCES>
     </library>
+    <library name="excon (v0.62.0, RVM: ruby-2.4.3 [mindleaps-tracker]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/excon-0.62.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/excon-0.62.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/excon-0.62.0/benchmarks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/excon-0.62.0/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/excon-0.62.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/excon-0.62.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/excon-0.62.0/benchmarks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/excon-0.62.0/tests" />
+      </SOURCES>
+    </library>
     <library name="execjs (v2.7.0, RVM: ruby-2.3.3 [mindleaps-tracker]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@mindleaps-tracker/gems/execjs-2.7.0/lib" />
@@ -7974,6 +8066,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/i18n-0.9.5/gemfiles" />
       </SOURCES>
     </library>
+    <library name="i18n (v1.0.0, RVM: ruby-2.4.3 [mindleaps-tracker]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/i18n-1.0.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/i18n-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/i18n-1.0.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/i18n-1.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="image_optimizer (v1.7.0, RVM: ruby-2.3.3 [mindleaps-tracker]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@mindleaps-tracker/gems/image_optimizer-1.7.0/lib" />
@@ -9488,6 +9590,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/loofah-2.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="loofah (v2.2.2, RVM: ruby-2.4.3 [mindleaps-tracker]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/loofah-2.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/loofah-2.2.2/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/loofah-2.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/loofah-2.2.2/benchmark" />
+      </SOURCES>
+    </library>
     <library name="lumberjack (v1.0.12, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/lumberjack-1.0.12/lib" />
@@ -11000,6 +11112,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/newrelic_rpm-4.8.0.341/config" />
       </SOURCES>
     </library>
+    <library name="newrelic_rpm (v5.0.0.342, RVM: ruby-2.4.3 [mindleaps-tracker]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/newrelic_rpm-5.0.0.342/cert" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/newrelic_rpm-5.0.0.342/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/newrelic_rpm-5.0.0.342/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/newrelic_rpm-5.0.0.342/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/newrelic_rpm-5.0.0.342/recipes" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/newrelic_rpm-5.0.0.342/cert" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/newrelic_rpm-5.0.0.342/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/newrelic_rpm-5.0.0.342/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/newrelic_rpm-5.0.0.342/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/newrelic_rpm-5.0.0.342/recipes" />
+      </SOURCES>
+    </library>
     <library name="nio4r (v1.2.1, RVM: ruby-2.3.3 [mindleaps-tracker]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@mindleaps-tracker/gems/nio4r-1.2.1/ext" />
@@ -12214,6 +12342,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/parser-2.5.0.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/parser-2.5.0.4/bin" />
+      </SOURCES>
+    </library>
+    <library name="parser (v2.5.0.5, RVM: ruby-2.4.3 [mindleaps-tracker]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/parser-2.5.0.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/parser-2.5.0.5/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/parser-2.5.0.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/parser-2.5.0.5/bin" />
       </SOURCES>
     </library>
     <library name="pg (v0.19.0, RVM: ruby-2.3.3 [mindleaps-tracker]) [gem]">
@@ -13810,6 +13948,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/rack-test-0.8.3/lib" />
       </SOURCES>
     </library>
+    <library name="rack-test (v1.0.0, RVM: ruby-2.4.3 [mindleaps-tracker]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/rack-test-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/rack-test-1.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rails (v3.2.18, RVM: ruby-2.3.3) [gem]">
       <CLASSES />
       <SOURCES />
@@ -13948,6 +14094,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/rails-5.1.5" />
+      </SOURCES>
+    </library>
+    <library name="rails (v5.1.6, RVM: ruby-2.4.3 [mindleaps-tracker]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/rails-5.1.6" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/rails-5.1.6" />
       </SOURCES>
     </library>
     <library name="rails-controller-testing (v1.0.1, RVM: ruby-2.3.3 [mindleaps-tracker]) [gem]">
@@ -14158,6 +14312,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rails-html-sanitizer-1.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="rails-html-sanitizer (v1.0.4, RVM: ruby-2.4.3 [mindleaps-tracker]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/rails-html-sanitizer-1.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/rails-html-sanitizer-1.0.4/lib" />
+      </SOURCES>
+    </library>
     <library name="rails_semantic_logger (v4.2.0, RVM: ruby-2.4.3 [mindleaps-tracker]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/rails_semantic_logger-4.2.0/lib" />
@@ -14358,6 +14520,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/railties-5.1.5/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/railties-5.1.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="railties (v5.1.6, RVM: ruby-2.4.3 [mindleaps-tracker]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/railties-5.1.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/railties-5.1.6/exe" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/railties-5.1.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/railties-5.1.6/exe" />
       </SOURCES>
     </library>
     <library name="rainbow (v2.1.0, RVM: ruby-2.3.3 [mindleaps-tracker]) [gem]">
@@ -14712,6 +14884,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rake-12.3.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rake-12.3.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rake-12.3.0/exe" />
+      </SOURCES>
+    </library>
+    <library name="rake (v12.3.1, RVM: ruby-2.4.3 [mindleaps-tracker]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/rake-12.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/rake-12.3.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/rake-12.3.1/exe" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/rake-12.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/rake-12.3.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/rake-12.3.1/exe" />
       </SOURCES>
     </library>
     <library name="ransack (v1.8.2, RVM: ruby-2.3.3 [mindleaps-tracker]) [gem]">
@@ -16004,6 +16188,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/rubocop-0.53.0/assets" />
       </SOURCES>
     </library>
+    <library name="rubocop (v0.54.0, RVM: ruby-2.4.3 [mindleaps-tracker]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/rubocop-0.54.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/rubocop-0.54.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/rubocop-0.54.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/rubocop-0.54.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/rubocop-0.54.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/rubocop-0.54.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/rubocop-0.54.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/rubocop-0.54.0/config" />
+      </SOURCES>
+    </library>
     <library name="ruby-debug-ide (v0.6.1.beta11, RVM: ruby-2.4.3 [mindleaps-tracker]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/ruby-debug-ide-0.6.1.beta11/ext" />
@@ -16720,6 +16918,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/sass-3.5.5/extra" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/sass-3.5.5/rails" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/sass-3.5.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="sass (v3.5.6, RVM: ruby-2.4.3 [mindleaps-tracker]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/sass-3.5.6/extra" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/sass-3.5.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/sass-3.5.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/sass-3.5.6/rails" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/sass-3.5.6/extra" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/sass-3.5.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/sass-3.5.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/sass-3.5.6/rails" />
       </SOURCES>
     </library>
     <library name="sass-listen (v4.0.0, RVM: ruby-2.4.1 [mindleaps-tracker]) [gem]">
@@ -17804,6 +18016,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/skylight-1.5.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/skylight-1.5.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/skylight-1.5.1/ext" />
+      </SOURCES>
+    </library>
+    <library name="skylight (v1.6.0, RVM: ruby-2.4.3 [mindleaps-tracker]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/skylight/1.6.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/skylight-1.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/skylight-1.6.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/skylight-1.6.0/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/skylight/1.6.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/skylight-1.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/skylight-1.6.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/skylight-1.6.0/bin" />
       </SOURCES>
     </library>
     <library name="slim (v3.0.9, RVM: ruby-2.4.3 [mindleaps-tracker]) [gem]">
