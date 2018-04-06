@@ -2052,6 +2052,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/awesome_print-1.8.0/lib" />
       </SOURCES>
     </library>
+    <library name="awesome_print (v1.8.0, RVM: ruby-2.5.1 [mindleaps-tracker]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/awesome_print-1.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/awesome_print-1.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="bcrypt (v3.1.11, RVM: ruby-2.3.3 [mindleaps-tracker]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
@@ -15540,6 +15548,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/bundler/gems/rails_semantic_logger-fc86ef4c7c03/.github" />
       </SOURCES>
     </library>
+    <library name="rails_semantic_logger (v4.2.1, RVM: ruby-2.5.1 [mindleaps-tracker]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/rails_semantic_logger-4.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/rails_semantic_logger-4.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="railties (v3.2.18, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/railties-3.2.18/lib" />
@@ -18766,6 +18782,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/semantic_logger-4.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="semantic_logger (v4.2.1, RVM: ruby-2.5.1 [mindleaps-tracker]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/semantic_logger-4.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/semantic_logger-4.2.1/lib" />
       </SOURCES>
     </library>
     <library name="sentry-raven (v2.7.2, RVM: ruby-2.4.3 [mindleaps-tracker]) [gem]">
