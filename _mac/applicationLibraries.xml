@@ -10240,6 +10240,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/listen-3.1.5/bin" />
       </SOURCES>
     </library>
+    <library name="lograge (v0.10.0, RVM: ruby-2.5.1 [mindleaps-tracker]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/lograge-0.10.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/lograge-0.10.0/lib" />
+      </SOURCES>
+    </library>
     <library name="lograge (v0.9.0, RVM: ruby-2.4.3 [mindleaps-tracker]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/lograge-0.9.0/lib" />
@@ -16586,6 +16594,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3@mindleaps-tracker/gems/request_store-1.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="request_store (v1.4.1, RVM: ruby-2.5.1 [mindleaps-tracker]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/request_store-1.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/request_store-1.4.1/lib" />
       </SOURCES>
     </library>
     <library name="responders (v1.1.2, RVM: ruby-2.3.3) [gem]">
