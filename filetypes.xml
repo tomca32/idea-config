@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping pattern="IntegrationDockerfile" type="Dockerfile" />
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="must_read_card" type="JavaScript" />
+      <mapping pattern="security_modaljs" type="JavaScript" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="HubDockerfile" type="PLAIN_TEXT" />
