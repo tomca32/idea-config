@@ -2200,11 +2200,9 @@
     </library>
     <library name="bcrypt (v3.1.11, RVM: ruby-2.5.1 [mindleaps-tracker]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/bcrypt-3.1.11/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/bcrypt-3.1.11/lib" />
       </SOURCES>
     </library>
@@ -2396,11 +2394,9 @@
     </library>
     <library name="bindex (v0.5.0, RVM: ruby-2.5.1 [mindleaps-tracker]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bindex/0.5.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/bindex-0.5.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bindex/0.5.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/bindex-0.5.0/lib" />
       </SOURCES>
     </library>
@@ -2514,21 +2510,17 @@
     </library>
     <library name="binding_of_caller (v0.8.0, RVM: ruby-2.5.1 [mindleaps-tracker]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/binding_of_caller/0.8.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/binding_of_caller-0.8.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/binding_of_caller/0.8.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/binding_of_caller-0.8.0/lib" />
       </SOURCES>
     </library>
     <library name="bootsnap (v1.3.0, RVM: ruby-2.5.1 [mindleaps-tracker]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bootsnap/1.3.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/bootsnap-1.3.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bootsnap/1.3.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/bootsnap-1.3.0/lib" />
       </SOURCES>
     </library>
@@ -3250,11 +3242,9 @@
     </library>
     <library name="byebug (v10.0.2, RVM: ruby-2.5.1 [mindleaps-tracker]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/byebug/10.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/byebug-10.0.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/byebug/10.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/byebug-10.0.2/lib" />
       </SOURCES>
     </library>
@@ -5248,11 +5238,9 @@
     </library>
     <library name="debug_inspector (v0.0.3, RVM: ruby-2.5.1 [mindleaps-tracker]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/debug_inspector/0.0.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/debug_inspector-0.0.3/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/debug_inspector/0.0.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/debug_inspector-0.0.3/lib" />
       </SOURCES>
     </library>
@@ -7308,11 +7296,9 @@
     </library>
     <library name="ffi (v1.9.23, RVM: ruby-2.5.1 [mindleaps-tracker]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ffi/1.9.23" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/ffi-1.9.23/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ffi/1.9.23" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/ffi-1.9.23/lib" />
       </SOURCES>
     </library>
@@ -9716,11 +9702,9 @@
     </library>
     <library name="json (v1.8.6, RVM: ruby-2.5.1 [mindleaps-tracker]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/json/1.8.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/json-1.8.6/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/json/1.8.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/json-1.8.6/lib" />
       </SOURCES>
     </library>
@@ -11072,11 +11056,9 @@
     </library>
     <library name="msgpack (v1.2.4, RVM: ruby-2.5.1 [mindleaps-tracker]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/msgpack/1.2.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/msgpack-1.2.4/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/msgpack/1.2.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/msgpack-1.2.4/lib" />
       </SOURCES>
     </library>
@@ -11980,11 +11962,9 @@
     </library>
     <library name="nio4r (v2.3.1, RVM: ruby-2.5.1 [mindleaps-tracker]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/nio4r-2.3.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/nio4r-2.3.1/lib" />
       </SOURCES>
     </library>
@@ -12310,11 +12290,9 @@
     </library>
     <library name="nokogiri (v1.8.2, RVM: ruby-2.5.1 [mindleaps-tracker]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.8.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/nokogiri-1.8.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.8.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/nokogiri-1.8.2/lib" />
       </SOURCES>
     </library>
@@ -13188,11 +13166,9 @@
     </library>
     <library name="pg (v1.0.0, RVM: ruby-2.5.1 [mindleaps-tracker]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/pg/1.0.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/pg-1.0.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/pg/1.0.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/pg-1.0.0/lib" />
       </SOURCES>
     </library>
@@ -13226,11 +13202,9 @@
     </library>
     <library name="pg_query (v1.0.2, RVM: ruby-2.5.1 [mindleaps-tracker]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/pg_query/1.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/pg_query-1.0.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/pg_query/1.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/pg_query-1.0.2/lib" />
       </SOURCES>
     </library>
@@ -14106,11 +14080,9 @@
     </library>
     <library name="puma (v3.11.4, RVM: ruby-2.5.1 [mindleaps-tracker]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/puma/3.11.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/puma-3.11.4/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/puma/3.11.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/puma-3.11.4/lib" />
       </SOURCES>
     </library>
@@ -15832,11 +15804,9 @@
     </library>
     <library name="rb-fsevent (v0.10.3, RVM: ruby-2.5.1 [mindleaps-tracker]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/rb-fsevent-0.10.3/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/rb-fsevent-0.10.3/lib" />
       </SOURCES>
     </library>
@@ -19052,11 +19022,9 @@
     </library>
     <library name="skylight (v2.0.1, RVM: ruby-2.5.1 [mindleaps-tracker]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/skylight/2.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/skylight-2.0.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/skylight/2.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/skylight-2.0.1/lib" />
       </SOURCES>
     </library>
@@ -21488,11 +21456,9 @@
     </library>
     <library name="websocket-driver (v0.7.0, RVM: ruby-2.5.1 [mindleaps-tracker]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/websocket-driver/0.7.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/websocket-driver-0.7.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/websocket-driver/0.7.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/websocket-driver-0.7.0/lib" />
       </SOURCES>
     </library>
