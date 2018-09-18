@@ -3509,11 +3509,13 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bootsnap/1.3.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/bootsnap-1.3.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/bootsnap-1.3.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/bootsnap-1.3.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bootsnap/1.3.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/bootsnap-1.3.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/bootsnap-1.3.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/bootsnap-1.3.2/lib" />
@@ -26795,6 +26797,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@mindleaps-tracker/gems/scenic-1.4.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@mindleaps-tracker/gems/scenic-1.4.0/gemfiles" />
       </SOURCES>
+    </library>
+    <library name="scenic (v1.4.1, RVM: ruby-2.5.1 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/scenic-1.4.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/scenic-1.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/scenic-1.4.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/scenic-1.4.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/scenic-1.4.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/scenic-1.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/scenic-1.4.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/scenic-1.4.1/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/scenic-1.4.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/scenic-1.4.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/scenic-1.4.1/gemfiles" />
+      </excluded>
     </library>
     <library name="sdbm (v1.0.0, RVM: ruby-2.5.1 [global]) [gem]" type="rubylib">
       <properties>
