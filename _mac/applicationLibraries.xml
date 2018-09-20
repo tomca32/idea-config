@@ -5927,6 +5927,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/chromedriver-helper-2.0.1/concourse" />
       </excluded>
     </library>
+    <library name="chromedriver-helper (v2.1.0, RVM: ruby-2.5.1 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/chromedriver-helper-2.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/chromedriver-helper-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/chromedriver-helper-2.1.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/chromedriver-helper-2.1.0/concourse" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/chromedriver-helper-2.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/chromedriver-helper-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/chromedriver-helper-2.1.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/chromedriver-helper-2.1.0/concourse" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/chromedriver-helper-2.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/chromedriver-helper-2.1.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/chromedriver-helper-2.1.0/concourse" />
+      </excluded>
+    </library>
     <library name="chronic (v0.10.2, RVM: ruby-2.3.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -10931,6 +10953,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/fog-aws-3.2.0/tests" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/fog-aws-3.2.0/gemfiles" />
+      </excluded>
+    </library>
+    <library name="fog-aws (v3.3.0, RVM: ruby-2.5.1 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/fog-aws-3.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/fog-aws-3.3.0/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/fog-aws-3.3.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/fog-aws-3.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/fog-aws-3.3.0/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/fog-aws-3.3.0/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/fog-aws-3.3.0/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/fog-aws-3.3.0/gemfiles" />
       </excluded>
     </library>
     <library name="fog-core (v1.43.0, RVM: ruby-2.3.3 [mindleaps-tracker]) [gem]">
