@@ -5261,6 +5261,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/capybara-3.8.0/spec" />
       </excluded>
     </library>
+    <library name="capybara (v3.8.1, RVM: ruby-2.5.1 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/capybara-3.8.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/capybara-3.8.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/capybara-3.8.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/capybara-3.8.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/capybara-3.8.1/spec" />
+      </excluded>
+    </library>
     <library name="carrierwave (v0.11.2, RVM: ruby-2.3.3 [mindleaps-tracker]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@mindleaps-tracker/gems/carrierwave-0.11.2/lib" />
@@ -15524,6 +15540,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/mini_magick-4.9.1/lib" />
       </SOURCES>
     </library>
+    <library name="mini_magick (v4.9.2, RVM: ruby-2.5.1 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/mini_magick-4.9.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/mini_magick-4.9.2/lib" />
+      </SOURCES>
+    </library>
     <library name="mini_mime (v0.1.4, RVM: ruby-2.4.1 [mindleaps-tracker]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@mindleaps-tracker/gems/mini_mime-0.1.4/bin" />
@@ -18823,6 +18850,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/pagy-0.19.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="pagy (v0.19.3, RVM: ruby-2.5.1 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/pagy-0.19.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/pagy-0.19.3/lib" />
       </SOURCES>
     </library>
     <library name="parallel (v1.11.2, RVM: ruby-2.3.3 [mindleaps-tracker]) [gem]">
@@ -25663,6 +25701,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/rubocop-0.59.1/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/rubocop-0.59.1/assets" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/rubocop-0.59.1/config" />
+      </excluded>
+    </library>
+    <library name="rubocop (v0.59.2, RVM: ruby-2.5.1 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/rubocop-0.59.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/rubocop-0.59.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/rubocop-0.59.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/rubocop-0.59.2/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/rubocop-0.59.2/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/rubocop-0.59.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/rubocop-0.59.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/rubocop-0.59.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/rubocop-0.59.2/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/rubocop-0.59.2/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/rubocop-0.59.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/rubocop-0.59.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/rubocop-0.59.2/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@mindleaps-tracker/gems/rubocop-0.59.2/config" />
       </excluded>
     </library>
     <library name="rubocop-rspec (v1.29.0, RVM: ruby-2.5.1 [mindleaps-tracker]) [gem]" type="rubylib">
