@@ -16347,6 +16347,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@mindleaps-tracker/gems/i18n-1.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="i18n (v1.3.0, RVM: ruby-2.5.3 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@mindleaps-tracker/gems/i18n-1.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@mindleaps-tracker/gems/i18n-1.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="image_optimizer (v1.7.0, RVM: ruby-2.3.3 [mindleaps-tracker]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@mindleaps-tracker/gems/image_optimizer-1.7.0/lib" />
@@ -19654,6 +19665,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@mindleaps-tracker/gems/mimemagic-0.3.2/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@mindleaps-tracker/gems/mimemagic-0.3.2/script" />
+      </excluded>
+    </library>
+    <library name="mimemagic (v0.3.3, RVM: ruby-2.5.3 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@mindleaps-tracker/gems/mimemagic-0.3.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@mindleaps-tracker/gems/mimemagic-0.3.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@mindleaps-tracker/gems/mimemagic-0.3.3/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@mindleaps-tracker/gems/mimemagic-0.3.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@mindleaps-tracker/gems/mimemagic-0.3.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@mindleaps-tracker/gems/mimemagic-0.3.3/script" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@mindleaps-tracker/gems/mimemagic-0.3.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@mindleaps-tracker/gems/mimemagic-0.3.3/script" />
       </excluded>
     </library>
     <library name="mini_magick (v4.5.1, RVM: ruby-2.3.3 [mindleaps-tracker]) [gem]">
@@ -40613,6 +40643,22 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@mindleaps-tracker/gems/unicode-display_width-1.4.0/data" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@mindleaps-tracker/gems/unicode-display_width-1.4.0/spec" />
+      </excluded>
+    </library>
+    <library name="unicode-display_width (v1.4.1, RVM: ruby-2.5.3 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@mindleaps-tracker/gems/unicode-display_width-1.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@mindleaps-tracker/gems/unicode-display_width-1.4.1/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@mindleaps-tracker/gems/unicode-display_width-1.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@mindleaps-tracker/gems/unicode-display_width-1.4.1/data" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@mindleaps-tracker/gems/unicode-display_width-1.4.1/data" />
       </excluded>
     </library>
     <library name="unicorn (v5.4.0, RVM: ruby-2.3.3) [gem]" type="rubylib">
