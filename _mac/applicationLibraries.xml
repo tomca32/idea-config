@@ -6943,6 +6943,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@mindleaps-tracker/gems/carrierwave-1.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="carrierwave (v1.3.1, RVM: ruby-2.5.3 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@mindleaps-tracker/gems/carrierwave-1.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@mindleaps-tracker/gems/carrierwave-1.3.1/lib" />
+      </SOURCES>
+    </library>
     <library name="carrierwave-bombshelter (v0.2.2, RVM: ruby-2.3.3 [mindleaps-tracker]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@mindleaps-tracker/gems/carrierwave-bombshelter-0.2.2/lib" />
@@ -23740,6 +23751,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@mindleaps-tracker/gems/omniauth-google-oauth2-0.5.4/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@mindleaps-tracker/gems/omniauth-google-oauth2-0.5.4/examples" />
+      </excluded>
+    </library>
+    <library name="omniauth-google-oauth2 (v0.6.0, RVM: ruby-2.5.3 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@mindleaps-tracker/gems/omniauth-google-oauth2-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@mindleaps-tracker/gems/omniauth-google-oauth2-0.6.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@mindleaps-tracker/gems/omniauth-google-oauth2-0.6.0/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@mindleaps-tracker/gems/omniauth-google-oauth2-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@mindleaps-tracker/gems/omniauth-google-oauth2-0.6.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@mindleaps-tracker/gems/omniauth-google-oauth2-0.6.0/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@mindleaps-tracker/gems/omniauth-google-oauth2-0.6.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@mindleaps-tracker/gems/omniauth-google-oauth2-0.6.0/examples" />
       </excluded>
     </library>
     <library name="omniauth-oauth2 (v1.4.0, RVM: ruby-2.3.3 [mindleaps-tracker]) [gem]">
