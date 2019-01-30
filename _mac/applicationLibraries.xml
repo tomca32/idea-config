@@ -42342,13 +42342,11 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/skylight/3.1.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0@mindleaps-tracker/gems/skylight-3.1.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0@mindleaps-tracker/gems/skylight-3.1.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0@mindleaps-tracker/gems/skylight-3.1.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/skylight/3.1.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0@mindleaps-tracker/gems/skylight-3.1.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0@mindleaps-tracker/gems/skylight-3.1.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0@mindleaps-tracker/gems/skylight-3.1.2/lib" />
@@ -42363,11 +42361,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/skylight/3.1.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0@mindleaps-tracker/gems/skylight-3.1.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0@mindleaps-tracker/gems/skylight-3.1.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0@mindleaps-tracker/gems/skylight-3.1.4/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/skylight/3.1.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0@mindleaps-tracker/gems/skylight-3.1.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0@mindleaps-tracker/gems/skylight-3.1.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.0@mindleaps-tracker/gems/skylight-3.1.4/lib" />
