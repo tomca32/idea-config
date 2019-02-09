@@ -36319,6 +36319,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/rails_semantic_logger-4.3.4/lib" />
       </SOURCES>
     </library>
+    <library name="rails_semantic_logger (v4.4.0, RVM: ruby-2.6.1 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/rails_semantic_logger-4.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/rails_semantic_logger-4.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="railties (v3.2.18, RVM: ruby-2.3.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
