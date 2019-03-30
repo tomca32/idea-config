@@ -5579,12 +5579,14 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/bootsnap/1.4.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/bootsnap-1.4.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/bootsnap-1.4.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/bootsnap-1.4.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/bootsnap-1.4.2/.github" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/bootsnap/1.4.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/bootsnap-1.4.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/bootsnap-1.4.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/bootsnap-1.4.2/lib" />
