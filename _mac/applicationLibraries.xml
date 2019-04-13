@@ -792,14 +792,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/bootsnap/1.4.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/bootsnap-1.4.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/bootsnap-1.4.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/bootsnap-1.4.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/bootsnap-1.4.2/.github" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/bootsnap/1.4.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/bootsnap-1.4.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/bootsnap-1.4.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/bootsnap-1.4.2/lib" />
@@ -809,6 +807,30 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/bootsnap-1.4.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/bootsnap-1.4.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/bootsnap-1.4.2/.github" />
+      </excluded>
+    </library>
+    <library name="bootsnap (v1.4.3, RVM: ruby-2.6.1 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/bootsnap/1.4.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/bootsnap-1.4.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/bootsnap-1.4.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/bootsnap-1.4.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/bootsnap-1.4.3/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/bootsnap/1.4.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/bootsnap-1.4.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/bootsnap-1.4.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/bootsnap-1.4.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/bootsnap-1.4.3/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/bootsnap-1.4.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/bootsnap-1.4.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/bootsnap-1.4.3/.github" />
       </excluded>
     </library>
     <library name="builder (v3.2.3, RVM: ruby-2.5.3) [gem]" type="rubylib">
@@ -2496,6 +2518,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/json_matchers-0.10.0/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/json_matchers-0.10.0/test" />
+      </excluded>
+    </library>
+    <library name="json_matchers (v0.11.0, RVM: ruby-2.6.1 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/json_matchers-0.11.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/json_matchers-0.11.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/json_matchers-0.11.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/json_matchers-0.11.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/json_matchers-0.11.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/json_matchers-0.11.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/json_matchers-0.11.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/json_matchers-0.11.0/test" />
       </excluded>
     </library>
     <library name="json_schema (v0.20.4, RVM: ruby-2.6.1 [mindleaps-tracker]) [gem]" type="rubylib">
