@@ -1160,6 +1160,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/capybara-3.16.1/spec" />
       </excluded>
     </library>
+    <library name="capybara (v3.16.2, RVM: ruby-2.6.1 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/capybara-3.16.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/capybara-3.16.2/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/capybara-3.16.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/capybara-3.16.2/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/capybara-3.16.2/spec" />
+      </excluded>
+    </library>
     <library name="carrierwave (v1.3.1, RVM: ruby-2.6.1 [mindleaps-tracker]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4504,6 +4520,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/regexp_parser-1.3.0/test" />
+      </excluded>
+    </library>
+    <library name="regexp_parser (v1.4.0, RVM: ruby-2.6.1 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/regexp_parser-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/regexp_parser-1.4.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/regexp_parser-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/regexp_parser-1.4.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/regexp_parser-1.4.0/test" />
       </excluded>
     </library>
     <library name="responders (v2.4.0, RVM: ruby-2.6.1 [mindleaps-tracker]) [gem]" type="rubylib">
