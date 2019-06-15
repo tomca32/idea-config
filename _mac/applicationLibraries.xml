@@ -2875,6 +2875,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/json_schema-0.20.4/schemas" />
       </excluded>
     </library>
+    <library name="json_translate (v4.0.0, RVM: ruby-2.6.1 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/json_translate-4.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/json_translate-4.0.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/json_translate-4.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/json_translate-4.0.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/json_translate-4.0.0/test" />
+      </excluded>
+    </library>
     <library name="jsonapi-renderer (v0.2.0, RVM: ruby-2.6.1 [mindleaps-tracker]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2912,6 +2928,65 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/jwt-2.2.1/lib" />
       </SOURCES>
+    </library>
+    <library name="kaminari (v1.1.1, RVM: ruby-2.6.1 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/kaminari-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/kaminari-1.1.1/misc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/kaminari-1.1.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/kaminari-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/kaminari-1.1.1/misc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/kaminari-1.1.1/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/kaminari-1.1.1/misc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/kaminari-1.1.1/gemfiles" />
+      </excluded>
+    </library>
+    <library name="kaminari-actionview (v1.1.1, RVM: ruby-2.6.1 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/kaminari-actionview-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/kaminari-actionview-1.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="kaminari-activerecord (v1.1.1, RVM: ruby-2.6.1 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/kaminari-activerecord-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/kaminari-activerecord-1.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="kaminari-core (v1.1.1, RVM: ruby-2.6.1 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/kaminari-core-1.1.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/kaminari-core-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/kaminari-core-1.1.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/kaminari-core-1.1.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/kaminari-core-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/kaminari-core-1.1.1/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/kaminari-core-1.1.1/config" />
+      </excluded>
     </library>
     <library name="loofah (v2.2.3, RVM: ruby-2.5.3) [gem]" type="rubylib">
       <properties>
@@ -6222,11 +6297,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/skylight/4.1.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/skylight-4.1.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/skylight-4.1.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/skylight-4.1.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/skylight/4.1.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/skylight-4.1.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/skylight-4.1.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.1@mindleaps-tracker/gems/skylight-4.1.0/lib" />
