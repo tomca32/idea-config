@@ -5674,7 +5674,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nio4r-2.3.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nio4r-2.3.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nio4r-2.3.1/spec" />
@@ -5682,7 +5681,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nio4r-2.3.1/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nio4r-2.3.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nio4r-2.3.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nio4r-2.3.1/spec" />
@@ -5847,14 +5845,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.9.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nokogiri-1.9.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nokogiri-1.9.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nokogiri-1.9.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nokogiri-1.9.1/patches" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.9.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nokogiri-1.9.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nokogiri-1.9.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nokogiri-1.9.1/lib" />
@@ -6444,13 +6440,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/pg/1.1.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/pg-1.1.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/pg-1.1.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/pg-1.1.3/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/pg/1.1.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/pg-1.1.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/pg-1.1.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/pg-1.1.3/spec" />
@@ -11096,12 +11090,10 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/websocket-driver/0.7.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/websocket-driver-0.7.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/websocket-driver-0.7.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/websocket-driver/0.7.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/websocket-driver-0.7.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/websocket-driver-0.7.0/lib" />
       </SOURCES>
