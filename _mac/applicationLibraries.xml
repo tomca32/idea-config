@@ -8943,6 +8943,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/rubocop-rails-2.0.1/config" />
       </excluded>
     </library>
+    <library name="rubocop-rails (v2.2.1, RVM: ruby-2.6.3 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/rubocop-rails-2.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/rubocop-rails-2.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/rubocop-rails-2.2.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/rubocop-rails-2.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/rubocop-rails-2.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/rubocop-rails-2.2.1/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/rubocop-rails-2.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/rubocop-rails-2.2.1/config" />
+      </excluded>
+    </library>
     <library name="ruby-debug-ide (v0.6.1, RVM: ruby-2.6.1 [mindleaps-tracker]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
