@@ -256,11 +256,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/bcrypt/3.1.13" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/bcrypt-3.1.13/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/bcrypt-3.1.13/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/bcrypt-3.1.13/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/bcrypt/3.1.13" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/bcrypt-3.1.13/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/bcrypt-3.1.13/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/bcrypt-3.1.13/spec" />
@@ -981,6 +983,24 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/devise-4.6.2/config" />
+      </excluded>
+    </library>
+    <library name="devise (v4.7.0, RVM: ruby-2.6.3 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/devise-4.7.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/devise-4.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/devise-4.7.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/devise-4.7.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/devise-4.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/devise-4.7.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/devise-4.7.0/config" />
       </excluded>
     </library>
     <library name="did_you_mean (v1.3.0, RVM: ruby-2.6.3 [mindleaps-tracker]) [gem]" type="rubylib">
@@ -2439,6 +2459,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/omniauth-google-oauth2-0.7.0/examples" />
       </excluded>
     </library>
+    <library name="omniauth-google-oauth2 (v0.8.0, RVM: ruby-2.6.3 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/omniauth-google-oauth2-0.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/omniauth-google-oauth2-0.8.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/omniauth-google-oauth2-0.8.0/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/omniauth-google-oauth2-0.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/omniauth-google-oauth2-0.8.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/omniauth-google-oauth2-0.8.0/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/omniauth-google-oauth2-0.8.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/omniauth-google-oauth2-0.8.0/examples" />
+      </excluded>
+    </library>
     <library name="omniauth-oauth2 (v1.6.0, RVM: ruby-2.6.3 [mindleaps-tracker]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2512,6 +2551,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/pagy-3.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="pagy (v3.5.0, RVM: ruby-2.6.3 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/pagy-3.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/pagy-3.5.0/lib" />
       </SOURCES>
     </library>
     <library name="parallel (v1.17.0, RVM: ruby-2.6.3 [mindleaps-tracker]) [gem]" type="rubylib">
@@ -2671,6 +2721,24 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/pghero-2.2.1/config" />
+      </excluded>
+    </library>
+    <library name="pghero (v2.3.0, RVM: ruby-2.6.3 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/pghero-2.3.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/pghero-2.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/pghero-2.3.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/pghero-2.3.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/pghero-2.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/pghero-2.3.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/pghero-2.3.0/config" />
       </excluded>
     </library>
     <library name="poltergeist (v1.18.1, RVM: ruby-2.6.3 [mindleaps-tracker]) [gem]" type="rubylib">
@@ -3276,6 +3344,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/responders-2.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="responders (v3.0.0, RVM: ruby-2.6.3 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/responders-3.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/responders-3.0.0/lib" />
       </SOURCES>
     </library>
     <library name="rexml (v3.1.9, RVM: ruby-2.6.3 [mindleaps-tracker]) [gem]" type="rubylib">
