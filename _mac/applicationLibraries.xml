@@ -251,6 +251,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/bcrypt-3.1.12/spec" />
       </excluded>
     </library>
+    <library name="bcrypt (v3.1.13, RVM: ruby-2.6.3 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/bcrypt-3.1.13/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/bcrypt-3.1.13/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/bcrypt-3.1.13/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/bcrypt-3.1.13/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/bcrypt-3.1.13/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/bcrypt-3.1.13/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/bcrypt-3.1.13/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/bcrypt-3.1.13/spec" />
+      </excluded>
+    </library>
     <library name="better_errors (v2.5.1, RVM: ruby-2.6.3 [mindleaps-tracker]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -413,6 +432,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/bullet-6.0.1/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/bullet-6.0.1/rails" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/bullet-6.0.1/tasks" />
+      </excluded>
+    </library>
+    <library name="bullet (v6.0.2, RVM: ruby-2.6.3 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/bullet-6.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/bullet-6.0.2/perf" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/bullet-6.0.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/bullet-6.0.2/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/bullet-6.0.2/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/bullet-6.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/bullet-6.0.2/perf" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/bullet-6.0.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/bullet-6.0.2/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/bullet-6.0.2/tasks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/bullet-6.0.2/perf" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/bullet-6.0.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/bullet-6.0.2/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/bullet-6.0.2/tasks" />
       </excluded>
     </library>
     <library name="bundler (v1.17.3, RVM: ruby-2.6.3 [mindleaps-tracker]) [gem]" type="rubylib">
@@ -2855,6 +2899,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/pundit-2.0.1/spec" />
+      </excluded>
+    </library>
+    <library name="pundit (v2.1.0, RVM: ruby-2.6.3 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/pundit-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/pundit-2.1.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/pundit-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/pundit-2.1.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3@mindleaps-tracker/gems/pundit-2.1.0/spec" />
       </excluded>
     </library>
     <library name="pundit-matchers (v1.6.0, RVM: ruby-2.6.3 [mindleaps-tracker]) [gem]" type="rubylib">
