@@ -8504,6 +8504,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/webmock-3.7.2/minitest" />
       </excluded>
     </library>
+    <library name="webmock (v3.7.3, RVM: ruby-2.6.4 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/webmock-3.7.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/webmock-3.7.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/webmock-3.7.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/webmock-3.7.3/minitest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/webmock-3.7.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/webmock-3.7.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/webmock-3.7.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/webmock-3.7.3/minitest" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/webmock-3.7.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/webmock-3.7.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/webmock-3.7.3/minitest" />
+      </excluded>
+    </library>
     <library name="webrick (v1.4.2, RVM: ruby-2.6.3 [mindleaps-tracker]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
