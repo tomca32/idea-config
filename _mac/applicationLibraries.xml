@@ -1569,6 +1569,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/crass-1.0.4/test" />
       </excluded>
     </library>
+    <library name="crass (v1.0.5, RVM: ruby-2.6.4 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/crass-1.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/crass-1.0.5/lib" />
+      </SOURCES>
+    </library>
     <library name="csv (v3.0.9, RVM: ruby-2.6.3 [mindleaps-tracker]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -6079,6 +6090,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/rails_semantic_logger-4.4.2/lib" />
       </SOURCES>
     </library>
+    <library name="rails_semantic_logger (v4.4.3, RVM: ruby-2.6.4 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/rails_semantic_logger-4.4.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/rails_semantic_logger-4.4.3/lib" />
+      </SOURCES>
+    </library>
     <library name="railties (v5.2.3, RVM: ruby-2.6.3 [mindleaps-tracker]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -7581,6 +7603,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/semantic_logger-4.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="semantic_logger (v4.6.0, RVM: ruby-2.6.4 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/semantic_logger-4.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/semantic_logger-4.6.0/lib" />
       </SOURCES>
     </library>
     <library name="shell (v0.7, RVM: ruby-2.6.3 [mindleaps-tracker]) [gem]" type="rubylib">
