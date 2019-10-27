@@ -113,15 +113,23 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="greenplum">
-      <artifact name="PostgreSQL" use="true" />
+      <artifact name="PostgreSQL" use="true" version="42.2.5" />
       <option name="auto-sync" value="true" />
       <option name="schema-control" value="MANUAL" />
+      <option name="send-app-info" value="false" />
+      <option name="auto-commit" value="true" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
       <library>
         <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/postgresql-driver-license.txt</url>
       </library>
       <library>
         <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/postgresql-9.4-1201.jdbc4.jar</url>
       </library>
+    </driver>
+    <driver id="snowflake">
+      <artifact name="Snowflake" use="true" />
+      <option name="auto-sync" value="true" />
     </driver>
     <driver id="b19c0605-6f50-497e-9646-36fc7eb0eeb8" name="Rails tracker: development driver" dialect="PostgreSQL" driver-class="org.postgresql.Driver" icon="AllIcons.Providers.Postgresql">
       <url-template name="default" template="jdbc:postgresql:[//[{host::localhost}[:{port::5432}]]/]{database::postgres}[\?&lt;&amp;,user={user:param},password={password:param},{:identifier}={:param}&gt;]" />
