@@ -8727,11 +8727,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/skylight/4.2.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/skylight-4.2.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/skylight-4.2.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/skylight-4.2.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/skylight/4.2.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/skylight-4.2.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/skylight-4.2.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/skylight-4.2.0/lib" />
