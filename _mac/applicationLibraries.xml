@@ -2472,6 +2472,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/parallel-1.19.0/lib" />
       </SOURCES>
     </library>
+    <library name="parallel (v1.19.1, RVM: ruby-2.6.4 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/parallel-1.19.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/parallel-1.19.1/lib" />
+      </SOURCES>
+    </library>
     <library name="parlour (v0.8.1, RVM: ruby-2.6.4 [mindleaps-tracker]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3558,6 +3569,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/rubocop-0.76.0/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/rubocop-0.76.0/assets" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/rubocop-0.76.0/config" />
+      </excluded>
+    </library>
+    <library name="rubocop (v0.77.0, RVM: ruby-2.6.4 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/rubocop-0.77.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/rubocop-0.77.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/rubocop-0.77.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/rubocop-0.77.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/rubocop-0.77.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/rubocop-0.77.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/rubocop-0.77.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/rubocop-0.77.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/rubocop-0.77.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/rubocop-0.77.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/rubocop-0.77.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/rubocop-0.77.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/rubocop-0.77.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@mindleaps-tracker/gems/rubocop-0.77.0/config" />
       </excluded>
     </library>
     <library name="rubocop-performance (v1.4.1, RVM: ruby-2.6.4 [mindleaps-tracker]) [gem]" type="rubylib">
