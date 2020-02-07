@@ -2777,6 +2777,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/database_cleaner-1.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="database_cleaner (v1.8.2, RVM: ruby-2.6.5 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/database_cleaner-1.8.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/database_cleaner-1.8.2/adapters" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/database_cleaner-1.8.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/database_cleaner-1.8.2/adapters" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/database_cleaner-1.8.2/adapters" />
+      </excluded>
+    </library>
     <library name="debase (v0.2.4.1, RVM: ruby-2.6.4 [mindleaps-tracker]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -11479,6 +11495,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/rubocop-rails-2.4.1/config" />
       </excluded>
     </library>
+    <library name="rubocop-rails (v2.4.2, RVM: ruby-2.6.5 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/rubocop-rails-2.4.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/rubocop-rails-2.4.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/rubocop-rails-2.4.2/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/rubocop-rails-2.4.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/rubocop-rails-2.4.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/rubocop-rails-2.4.2/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/rubocop-rails-2.4.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/rubocop-rails-2.4.2/config" />
+      </excluded>
+    </library>
     <library name="ruby-debug-ide (v0.7.0, RVM: ruby-2.6.4 [mindleaps-tracker]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -14463,6 +14498,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/webmock-3.8.0/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/webmock-3.8.0/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/webmock-3.8.0/minitest" />
+      </excluded>
+    </library>
+    <library name="webmock (v3.8.1, RVM: ruby-2.6.5 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/webmock-3.8.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/webmock-3.8.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/webmock-3.8.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/webmock-3.8.1/minitest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/webmock-3.8.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/webmock-3.8.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/webmock-3.8.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/webmock-3.8.1/minitest" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/webmock-3.8.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/webmock-3.8.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/webmock-3.8.1/minitest" />
       </excluded>
     </library>
     <library name="webrick (v1.4.2, RVM: ruby-2.5.3) [gem]" type="rubylib">
