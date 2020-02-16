@@ -7541,6 +7541,30 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nokogiri-1.10.7/patches" />
       </excluded>
     </library>
+    <library name="nokogiri (v1.10.8, RVM: ruby-2.6.5 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogiri/1.10.8" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/nokogiri-1.10.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/nokogiri-1.10.8/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/nokogiri-1.10.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/nokogiri-1.10.8/patches" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogiri/1.10.8" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/nokogiri-1.10.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/nokogiri-1.10.8/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/nokogiri-1.10.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/nokogiri-1.10.8/patches" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/nokogiri-1.10.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/nokogiri-1.10.8/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/nokogiri-1.10.8/patches" />
+      </excluded>
+    </library>
     <library name="nokogiri (v1.9.1, RVM: ruby-2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
