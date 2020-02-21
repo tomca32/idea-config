@@ -2821,6 +2821,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/database_cleaner-1.8.2/adapters" />
       </excluded>
     </library>
+    <library name="database_cleaner (v1.8.3, RVM: ruby-2.6.5 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/database_cleaner-1.8.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/database_cleaner-1.8.3/adapters" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/database_cleaner-1.8.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/database_cleaner-1.8.3/adapters" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/database_cleaner-1.8.3/adapters" />
+      </excluded>
+    </library>
     <library name="debase (v0.2.4.1, RVM: ruby-2.6.4 [mindleaps-tracker]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -10757,6 +10773,17 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.5/lib/ruby/2.6.0/rexml/validation" />
       </excluded>
     </library>
+    <library name="rexml (v3.2.4, RVM: ruby-2.6.5 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/rexml-3.2.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/rexml-3.2.4/lib" />
+      </SOURCES>
+    </library>
     <library name="rolify (v5.2.0, RVM: ruby-2.6.4 [mindleaps-tracker]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -11392,6 +11419,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/rubocop-0.79.0/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/rubocop-0.79.0/assets" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/rubocop-0.79.0/config" />
+      </excluded>
+    </library>
+    <library name="rubocop (v0.80.0, RVM: ruby-2.6.5 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/rubocop-0.80.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/rubocop-0.80.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/rubocop-0.80.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/rubocop-0.80.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/rubocop-0.80.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/rubocop-0.80.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/rubocop-0.80.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/rubocop-0.80.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/rubocop-0.80.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/rubocop-0.80.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/rubocop-0.80.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/rubocop-0.80.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/rubocop-0.80.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/rubocop-0.80.0/config" />
       </excluded>
     </library>
     <library name="rubocop-performance (v1.4.1, RVM: ruby-2.6.4 [mindleaps-tracker]) [gem]" type="rubylib">
