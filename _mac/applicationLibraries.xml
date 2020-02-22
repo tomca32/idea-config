@@ -9735,6 +9735,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rails-html-sanitizer-1.3.0/test" />
       </excluded>
     </library>
+    <library name="rails-i18n (v5.1.3, RVM: ruby-2.6.5 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/rails-i18n-5.1.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/rails-i18n-5.1.3/rails" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/rails-i18n-5.1.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/rails-i18n-5.1.3/rails" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@mindleaps-tracker/gems/rails-i18n-5.1.3/rails" />
+      </excluded>
+    </library>
     <library name="rails_best_practices (v1.19.4, RVM: ruby-2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
