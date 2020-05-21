@@ -5,7 +5,6 @@
       <mapping pattern="must_read_card" type="JavaScript" />
       <mapping pattern="security_modaljs" type="JavaScript" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="HubDockerfile" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
