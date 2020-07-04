@@ -1179,6 +1179,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/addressable-2.7.0/tasks" />
       </excluded>
     </library>
+    <library name="amazing_print (v1.2.1, RVM: ruby-2.7.1 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/amazing_print-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/amazing_print-1.2.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/amazing_print-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/amazing_print-1.2.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/amazing_print-1.2.1/spec" />
+      </excluded>
+    </library>
     <library name="apparition (v0.4.0, RVM: ruby-2.6.5 [mindleaps-tracker]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
