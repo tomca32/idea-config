@@ -431,6 +431,27 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/bcrypt-3.1.13/spec" />
       </excluded>
     </library>
+    <library name="bcrypt (v3.1.15, RVM: ruby-2.7.1 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/bcrypt/3.1.15" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/bcrypt-3.1.15/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/bcrypt-3.1.15/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/bcrypt-3.1.15/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/bcrypt/3.1.15" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/bcrypt-3.1.15/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/bcrypt-3.1.15/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/bcrypt-3.1.15/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/bcrypt-3.1.15/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/bcrypt-3.1.15/spec" />
+      </excluded>
+    </library>
     <library name="benchmark (v0.1.0, RVM: ruby-2.7.1 [mindleaps-tracker]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -550,6 +571,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/bootsnap-1.4.7/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/bootsnap-1.4.7/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/bootsnap-1.4.7/.github" />
+      </excluded>
+    </library>
+    <library name="bootsnap (v1.4.8, RVM: ruby-2.7.1 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/bootsnap-1.4.8/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/bootsnap-1.4.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/bootsnap-1.4.8/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/bootsnap-1.4.8/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/bootsnap-1.4.8/ext" />
       </excluded>
     </library>
     <library name="builder (v3.2.4, RVM: ruby-2.7.1 [mindleaps-tracker]) [gem]" type="rubylib">
@@ -843,6 +880,23 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/concurrent-ruby-1.1.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/concurrent-ruby-1.1.6/lib" />
+      </excluded>
+    </library>
+    <library name="concurrent-ruby (v1.1.7, RVM: ruby-2.7.1 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/concurrent-ruby-1.1.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/concurrent-ruby-1.1.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/concurrent-ruby-1.1.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/concurrent-ruby-1.1.7/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/concurrent-ruby-1.1.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/concurrent-ruby-1.1.7/lib" />
       </excluded>
     </library>
     <library name="coveralls (v0.8.23, RVM: ruby-2.7.1 [mindleaps-tracker]) [gem]" type="rubylib">
@@ -1909,6 +1963,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/marginalia-1.8.0/gemfiles" />
       </excluded>
     </library>
+    <library name="marginalia (v1.9.0, RVM: ruby-2.7.1 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/marginalia-1.9.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/marginalia-1.9.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/marginalia-1.9.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/marginalia-1.9.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/marginalia-1.9.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/marginalia-1.9.0/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/marginalia-1.9.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/marginalia-1.9.0/gemfiles" />
+      </excluded>
+    </library>
     <library name="matrix (v0.2.0, RVM: ruby-2.7.1 [mindleaps-tracker]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2626,6 +2699,24 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/pghero-2.6.0/config" />
+      </excluded>
+    </library>
+    <library name="pghero (v2.7.0, RVM: ruby-2.7.1 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/pghero-2.7.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/pghero-2.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/pghero-2.7.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/pghero-2.7.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/pghero-2.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/pghero-2.7.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/pghero-2.7.0/config" />
       </excluded>
     </library>
     <library name="power_assert (v1.1.7, RVM: ruby-2.7.1 [mindleaps-tracker]) [gem]" type="rubylib">
@@ -4093,6 +4184,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/tiddle-1.4.0/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/tiddle-1.4.0/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/tiddle-1.4.0/gemfiles" />
+      </excluded>
+    </library>
+    <library name="tiddle (v1.5.0, RVM: ruby-2.7.1 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/tiddle-1.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/tiddle-1.5.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/tiddle-1.5.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/tiddle-1.5.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/tiddle-1.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/tiddle-1.5.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/tiddle-1.5.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/tiddle-1.5.0/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/tiddle-1.5.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/tiddle-1.5.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/tiddle-1.5.0/gemfiles" />
       </excluded>
     </library>
     <library name="tilt (v2.0.10, RVM: ruby-2.7.1 [mindleaps-tracker]) [gem]" type="rubylib">
