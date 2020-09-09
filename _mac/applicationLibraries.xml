@@ -2399,6 +2399,36 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/nio4r-2.5.2/examples" />
       </excluded>
     </library>
+    <library name="nio4r (v2.5.3, RVM: ruby-2.7.1 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/nio4r/2.5.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/nio4r-2.5.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/nio4r-2.5.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/nio4r-2.5.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/nio4r-2.5.3/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/nio4r-2.5.3/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/nio4r-2.5.3/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/nio4r/2.5.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/nio4r-2.5.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/nio4r-2.5.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/nio4r-2.5.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/nio4r-2.5.3/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/nio4r-2.5.3/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/nio4r-2.5.3/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/nio4r-2.5.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/nio4r-2.5.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/nio4r-2.5.3/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/nio4r-2.5.3/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/nio4r-2.5.3/examples" />
+      </excluded>
+    </library>
     <library name="nokogiri (v1.10.10, RVM: ruby-2.7.1 [mindleaps-tracker]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2786,6 +2816,27 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/pghero-2.7.0/config" />
       </excluded>
     </library>
+    <library name="pghero (v2.7.1, RVM: ruby-2.7.1 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/pghero-2.7.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/pghero-2.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/pghero-2.7.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/pghero-2.7.1/licenses" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/pghero-2.7.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/pghero-2.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/pghero-2.7.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/pghero-2.7.1/licenses" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/pghero-2.7.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/pghero-2.7.1/licenses" />
+      </excluded>
+    </library>
     <library name="power_assert (v1.1.7, RVM: ruby-2.7.1 [mindleaps-tracker]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2898,6 +2949,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/puma-4.3.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/puma-4.3.5/docs" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/puma-4.3.5/tools" />
+      </excluded>
+    </library>
+    <library name="puma (v4.3.6, RVM: ruby-2.7.1 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/puma-4.3.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/puma-4.3.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/puma-4.3.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/puma-4.3.6/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/puma-4.3.6/tools" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/puma-4.3.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/puma-4.3.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/puma-4.3.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/puma-4.3.6/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/puma-4.3.6/tools" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/puma-4.3.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/puma-4.3.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/puma-4.3.6/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/puma-4.3.6/tools" />
       </excluded>
     </library>
     <library name="pundit (v2.1.0, RVM: ruby-2.7.1 [mindleaps-tracker]) [gem]" type="rubylib">
