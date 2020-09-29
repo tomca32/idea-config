@@ -567,6 +567,72 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/awesome_print-1.8.0/spec" />
       </excluded>
     </library>
+    <library name="aws-eventstream (v1.1.0, RVM: ruby-2.7.1 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/aws-eventstream-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/aws-eventstream-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-partitions (v1.376.0, RVM: ruby-2.7.1 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/aws-partitions-1.376.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/aws-partitions-1.376.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-core (v3.108.0, RVM: ruby-2.7.1 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/aws-sdk-core-3.108.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/aws-sdk-core-3.108.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-kms (v1.38.0, RVM: ruby-2.7.1 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/aws-sdk-kms-1.38.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/aws-sdk-kms-1.38.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-s3 (v1.81.1, RVM: ruby-2.7.1 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/aws-sdk-s3-1.81.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/aws-sdk-s3-1.81.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sigv4 (v1.2.2, RVM: ruby-2.7.1 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/aws-sigv4-1.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/aws-sigv4-1.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="bcrypt (v3.1.13, RVM: ruby-2.7.1 [mindleaps-tracker]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -591,13 +657,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/bcrypt/3.1.15" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/bcrypt-3.1.15/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/bcrypt-3.1.15/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/bcrypt-3.1.15/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/bcrypt/3.1.15" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/bcrypt-3.1.15/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/bcrypt-3.1.15/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/bcrypt-3.1.15/spec" />
@@ -945,6 +1009,22 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/carrierwave-2.1.0/lib" />
       </SOURCES>
+    </library>
+    <library name="carrierwave-aws (v1.5.0, RVM: ruby-2.7.1 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/carrierwave-aws-1.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/carrierwave-aws-1.5.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/carrierwave-aws-1.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/carrierwave-aws-1.5.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/carrierwave-aws-1.5.0/spec" />
+      </excluded>
     </library>
     <library name="carrierwave-bombshelter (v0.2.2, RVM: ruby-2.7.1 [mindleaps-tracker]) [gem]" type="rubylib">
       <properties>
@@ -2070,6 +2150,17 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.7.1/lib/ruby/2.7.0/irb/ext" />
       </excluded>
     </library>
+    <library name="jmespath (v1.4.0, RVM: ruby-2.7.1 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/jmespath-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/jmespath-1.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="json (v2.3.0, RVM: ruby-2.7.1 [mindleaps-tracker]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2643,6 +2734,37 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/newrelic_rpm-6.13.0/recipes" />
       </excluded>
     </library>
+    <library name="newrelic_rpm (v6.13.1, RVM: ruby-2.7.1 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/newrelic_rpm-6.13.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/newrelic_rpm-6.13.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/newrelic_rpm-6.13.1/cert" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/newrelic_rpm-6.13.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/newrelic_rpm-6.13.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/newrelic_rpm-6.13.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/newrelic_rpm-6.13.1/recipes" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/newrelic_rpm-6.13.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/newrelic_rpm-6.13.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/newrelic_rpm-6.13.1/cert" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/newrelic_rpm-6.13.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/newrelic_rpm-6.13.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/newrelic_rpm-6.13.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/newrelic_rpm-6.13.1/recipes" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/newrelic_rpm-6.13.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/newrelic_rpm-6.13.1/cert" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/newrelic_rpm-6.13.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/newrelic_rpm-6.13.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/newrelic_rpm-6.13.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/newrelic_rpm-6.13.1/recipes" />
+      </excluded>
+    </library>
     <library name="nio4r (v2.5.2, RVM: ruby-2.7.1 [mindleaps-tracker]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2950,6 +3072,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/parser-2.7.1.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/parser-2.7.1.4/doc" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/parser-2.7.1.4/test" />
+      </excluded>
+    </library>
+    <library name="parser (v2.7.1.5, RVM: ruby-2.7.1 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/parser-2.7.1.5/ci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/parser-2.7.1.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/parser-2.7.1.5/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/parser-2.7.1.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/parser-2.7.1.5/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/parser-2.7.1.5/ci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/parser-2.7.1.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/parser-2.7.1.5/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/parser-2.7.1.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/parser-2.7.1.5/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/parser-2.7.1.5/ci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/parser-2.7.1.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/parser-2.7.1.5/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/parser-2.7.1.5/test" />
       </excluded>
     </library>
     <library name="pg (v1.2.3, RVM: ruby-2.7.1 [mindleaps-tracker]) [gem]" type="rubylib">
@@ -4016,6 +4163,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/rubocop-0.91.1/config" />
       </excluded>
     </library>
+    <library name="rubocop (v0.92.0, RVM: ruby-2.7.1 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/rubocop-0.92.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/rubocop-0.92.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/rubocop-0.92.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/rubocop-0.92.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/rubocop-0.92.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/rubocop-0.92.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/rubocop-0.92.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/rubocop-0.92.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/rubocop-0.92.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/rubocop-0.92.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/rubocop-0.92.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/rubocop-0.92.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/rubocop-0.92.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/rubocop-0.92.0/config" />
+      </excluded>
+    </library>
     <library name="rubocop-ast (v0.0.3, RVM: ruby-2.7.1 [mindleaps-tracker]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4080,6 +4252,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/rubocop-ast-0.4.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rubocop-ast (v0.5.0, RVM: ruby-2.7.1 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/rubocop-ast-0.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.1@mindleaps-tracker/gems/rubocop-ast-0.5.0/lib" />
       </SOURCES>
     </library>
     <library name="rubocop-performance (v1.6.1, RVM: ruby-2.7.1 [mindleaps-tracker]) [gem]" type="rubylib">
