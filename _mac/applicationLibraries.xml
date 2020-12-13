@@ -362,11 +362,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/bootsnap/1.5.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@mindleaps-tracker/gems/bootsnap-1.5.1/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@mindleaps-tracker/gems/bootsnap-1.5.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@mindleaps-tracker/gems/bootsnap-1.5.1/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/bootsnap/1.5.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@mindleaps-tracker/gems/bootsnap-1.5.1/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@mindleaps-tracker/gems/bootsnap-1.5.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@mindleaps-tracker/gems/bootsnap-1.5.1/lib" />
@@ -2366,6 +2368,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/nio4r/2.5.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@mindleaps-tracker/gems/nio4r-2.5.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@mindleaps-tracker/gems/nio4r-2.5.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@mindleaps-tracker/gems/nio4r-2.5.4/spec" />
@@ -2374,6 +2377,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@mindleaps-tracker/gems/nio4r-2.5.4/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/nio4r/2.5.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@mindleaps-tracker/gems/nio4r-2.5.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@mindleaps-tracker/gems/nio4r-2.5.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@mindleaps-tracker/gems/nio4r-2.5.4/spec" />
@@ -2890,6 +2894,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/puma/5.1.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@mindleaps-tracker/gems/puma-5.1.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@mindleaps-tracker/gems/puma-5.1.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@mindleaps-tracker/gems/puma-5.1.1/lib" />
@@ -2897,6 +2902,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@mindleaps-tracker/gems/puma-5.1.1/tools" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/puma/5.1.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@mindleaps-tracker/gems/puma-5.1.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@mindleaps-tracker/gems/puma-5.1.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@mindleaps-tracker/gems/puma-5.1.1/lib" />
@@ -3671,6 +3677,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@mindleaps-tracker/gems/rubocop-0.93.1/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@mindleaps-tracker/gems/rubocop-0.93.1/assets" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@mindleaps-tracker/gems/rubocop-0.93.1/config" />
+      </excluded>
+    </library>
+    <library name="rubocop (v1.6.1, RVM: ruby-2.7.2 [mindleaps-tracker]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@mindleaps-tracker/gems/rubocop-1.6.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@mindleaps-tracker/gems/rubocop-1.6.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@mindleaps-tracker/gems/rubocop-1.6.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@mindleaps-tracker/gems/rubocop-1.6.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@mindleaps-tracker/gems/rubocop-1.6.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@mindleaps-tracker/gems/rubocop-1.6.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@mindleaps-tracker/gems/rubocop-1.6.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@mindleaps-tracker/gems/rubocop-1.6.1/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@mindleaps-tracker/gems/rubocop-1.6.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@mindleaps-tracker/gems/rubocop-1.6.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.2@mindleaps-tracker/gems/rubocop-1.6.1/config" />
       </excluded>
     </library>
     <library name="rubocop-ast (v1.3.0, RVM: ruby-2.7.2 [mindleaps-tracker]) [gem]" type="rubylib">
